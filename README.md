@@ -5,10 +5,8 @@
 </h1>
 <p>App to Send specific udp packets to a nobreak.</p>
 
-  <img src="public/local.png" width="100">
-    <br>
-</h1>
-  <img src="public/servidor.png" width="100">
+  <img src="public/local.png" width="520">
+  <img src="public/servidor.png" width="520">
 
 </h1>
 
