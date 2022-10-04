@@ -164,7 +164,7 @@ int main(int, char**)
         static char Idt[5];
         static char Key[5];
 
-        static int IpServidor[] = {177,159,233,211};
+        static int IpServidor[] = {177,159,233,202};
         static char PortS[5];
         static int DNS[] = {8,8,8,8};
         static char timer[5];
